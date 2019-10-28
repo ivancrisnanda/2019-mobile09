@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="merk" type="id" />
+    <item name="gambar" type="id" />
+    <item name="frame" type="id" />
+    <item name="color" type="id" />
+</resources>
